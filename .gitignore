@@ -1,0 +1,8 @@
+# Raw survey data (>100 MB, exceeds GitHub limit) and generated intermediates
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/

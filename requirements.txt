@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+joblib
+scikit-learn>=1.2,<1.6
+xgboost
+tableone
+jupyter
